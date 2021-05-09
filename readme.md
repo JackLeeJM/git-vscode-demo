@@ -1,3 +1,5 @@
 # Learning Git in VSCode
 
-Sample Text
+Sample Text 1
+
+Sample Text 2
